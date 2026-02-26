@@ -1,0 +1,4 @@
+La terminal es tu mejor amiga.
+Aprender C es aprender a pensar como la maquina.
+Los punteros no son dificiles, solo diferentes.
+El sistema operativo es el puente entre el hardware y el software.
