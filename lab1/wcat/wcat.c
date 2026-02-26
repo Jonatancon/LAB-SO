@@ -19,7 +19,6 @@ void printFile(FILE *file) {
   char buffer[1024];
 
   //  puts("====================================================================");
-  puts("wcat:");
 
   while (fgets(buffer, sizeof(buffer), file) != NULL) {
     printf("%s", buffer);
