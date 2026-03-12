@@ -1,0 +1,4 @@
+esta linea tiene foo en ella
+esta linea no tiene nada
+foolish tambien tiene foo
+esta es otra linea normal

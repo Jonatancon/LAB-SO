@@ -23,6 +23,8 @@ void find(char *palabra, FILE *file) {
       printf("%s", line);
     }
   }
+
+  fclose(file);
 }
 
 int main(int argc, char *argv[]) {
