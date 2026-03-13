@@ -273,7 +273,7 @@ touch vacio.txt
 
 ## 6. Video de sustentación
 
-[Enlace al video: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_]
+[Enlace al video](https://youtu.be/JJ1le0em_7Q)
 
 ---
 
