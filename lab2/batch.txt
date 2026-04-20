@@ -1,0 +1,14 @@
+ls /bin/ls
+echo hola mundo
+cd /tmp
+echo directorio cambiado a tmp
+cd /ruta/que/no/existe
+ls -la /tmp > /tmp/wish_output.txt
+ls -la /tmp >> /tmp/wish_output_bad.txt
+ls & echo paralelo1 & echo paralelo2
+path /bin /usr/bin
+ls /usr/bin/wc
+path
+ls
+path /bin
+exit
